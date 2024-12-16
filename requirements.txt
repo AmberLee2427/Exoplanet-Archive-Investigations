@@ -1,0 +1,8 @@
+python==3.8
+numpy
+astropy
+matplotlib
+scipy
+pandas
+astroquery==0.4.7
+jupyter
